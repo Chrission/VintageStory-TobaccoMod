@@ -1,0 +1,10 @@
+{
+	"type":		"conent",
+	"modis": 	"tobaccomod",
+	"name":		"VS Tomabcco Mod",
+	"authors":	[
+		"Christian Raymon <christianaraymon@gmail.com> (https://github.com/Chrission)"
+	],
+	"description":	"A mod that adds tobscco and tobacco accessories",
+	"version":	"1.0.0"
+}
